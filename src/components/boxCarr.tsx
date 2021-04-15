@@ -10,7 +10,7 @@ export function BoxCarr() {
                 <img
                     src="https://images.vexels.com/media/users/3/200097/isolated/preview/942820836246f08c2d6be20a45a84139-shopping-cart-icon-shopping-cart-by-vexels.png"
                     alt="Carrinho" />
-                <p>Carrinho</p>
+                <p>Itens</p>
 
 
                 <input type="number" disabled />

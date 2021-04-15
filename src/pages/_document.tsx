@@ -5,7 +5,7 @@ export default class MyDocunent extends Docunent {
         return (
             <Html>
                 <Head>
-                    <link rel="shortcut icon" href="favicon.png" type="image/png" />
+                    <link rel="shortcut icon" href="favicon.svg" type="image/svg" />
 
                     {/* Fonte do Google  */}
                     <link rel="preconnect" href="https://fonts.gstatic.com" />
