@@ -1,0 +1,49 @@
+.ptofileContainer {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 86.04%;
+
+
+}
+
+.box{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: linear-gradient(180deg, #B3B553 0%, rgba(255, 255, 255, 0) 100%), #DDB4B4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 0px 10px 10px;
+}
+
+.box p {
+    position: absolute;
+    left: 29.93%; 
+    right: 20%;
+    top: 12.59%;
+    bottom: 13.29%;
+
+    font-family: Rajdhani;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 5rem;
+    line-height: 5rem ;
+    display: flex;
+    align-items: center ;
+    text-align: center ;
+
+    color: #000000;
+}
+
+.box img {
+    position: absolute;
+    width: 7rem;
+    height: 7rem;
+    left: 15rem;
+    top: 0px;
+
+}
